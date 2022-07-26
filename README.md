@@ -4,7 +4,7 @@
 ### I am a Fullstack developer who is passionate about building web apps.
 
 - 👨🏽‍💻 Currently working with my team to build a web app for generating Qr Code.
-- 👨🏽‍ Currently studying Software Engineering at Holberton School, a coding school in San-Francisco, United States.
+- 👨‍🎓 Currently studying Software Engineering at Holberton School, a coding school in San-Francisco, United States.
 - 🌱 I’m currently learning react.
 - ⚡ Fun fact: I'm more into photography than coding.
 - 📫 How to reach me: [@youngmanme_](https://instagram.com/youngmanme_)
